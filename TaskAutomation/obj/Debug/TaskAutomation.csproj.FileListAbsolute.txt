@@ -1,0 +1,17 @@
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\TaskAutomation.dll.config
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\TaskAutomation.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\TaskAutomation.pdb
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\TechTalk.SpecFlow.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\WebDriver.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\WebDriver.xml
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\obj\Debug\TaskAutomation.csprojResolveAssemblyReference.cache
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\obj\Debug\TaskAutomation.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\obj\Debug\TaskAutomation.pdb
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\nunit.framework.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\nunit.framework.xml
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\ImpromptuInterface.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\SpecFlow.Assist.Dynamic.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\ImpromptuInterface.xml
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\WebDriver.Support.dll
+F:\New Zealand\Lucy\Testing\Unleashed\TaskAutomation\TaskAutomation\bin\Debug\WebDriver.Support.xml
