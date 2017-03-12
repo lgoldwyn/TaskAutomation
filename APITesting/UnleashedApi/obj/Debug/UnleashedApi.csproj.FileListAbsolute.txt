@@ -1,0 +1,13 @@
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\UnleashedApi.exe.config
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\UnleashedApi.exe
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\UnleashedApi.pdb
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\Newtonsoft.Json.dll
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\nunit.framework.dll
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\Newtonsoft.Json.xml
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\bin\Debug\nunit.framework.xml
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\obj\Debug\UnleashedApi.csprojResolveAssemblyReference.cache
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\obj\Debug\UnleashedApi.exe
+F:\New Zealand\Lucy\Testing\Unleashed\Unleashed-Automation-Test-master\Unleashed_Task3\UnleashedApi\obj\Debug\UnleashedApi.pdb
+F:\New Zealand\Lucy\Testing\Unleashed\API\APITesting\UnleashedApi\bin\Debug\UnleashedApi.exe.config
+F:\New Zealand\Lucy\Testing\Unleashed\API\APITesting\UnleashedApi\obj\Debug\UnleashedApi.exe
+F:\New Zealand\Lucy\Testing\Unleashed\API\APITesting\UnleashedApi\obj\Debug\UnleashedApi.pdb
